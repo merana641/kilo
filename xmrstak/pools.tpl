@@ -30,10 +30,10 @@ POOLCONF],
  *    karbo
  *    monero7 (use this for Monero's new PoW)
  *    sumokoin
- *    haven
+ *    
  */
 
-"currency" : "CURRENCY",
+"currency" : "haven",
 
 )==="
 		
